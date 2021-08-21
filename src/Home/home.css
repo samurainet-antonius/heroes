@@ -1,0 +1,28 @@
+.Home{
+
+  position: fixed; /* or absolute */
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+.text-center{
+    text-align: center;
+}
+
+.img-center{
+    margin-top: 30px;
+    text-align: center;
+    padding: 30px 0;
+}
+
+.img-center img{
+    max-width: 300px;
+}
+
+.menu{
+    display: block;
+    text-align: center;
+    line-height: 40px;
+}
