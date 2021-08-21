@@ -1,0 +1,10 @@
+.card{
+    border: 1px solid black;
+    width: 300px; 
+    display: flex;
+    justify-content: center;
+  }
+  
+  .card img{
+    width: 100% !important;
+  }
